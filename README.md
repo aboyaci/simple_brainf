@@ -4,7 +4,7 @@ A simple brainf interpreter which can handle nested loops.
 
 ## About brainf
 
-Brainf is a imperative, tape-based, one-dimensional turing complete programming language designed by Urban Müller in 1993. It has 8 commands and 
+Brainf is a imperative, tape-based, one-dimensional turing complete programming language designed by Urban Müller in 1993. 
 
 More: https://esolangs.org/wiki/Brainfuck
 
